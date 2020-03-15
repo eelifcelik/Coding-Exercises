@@ -1,2 +1,2 @@
 # Coding-Exercises
- Coding Exercises for CS studens
+ Coding Exercises for CS students
